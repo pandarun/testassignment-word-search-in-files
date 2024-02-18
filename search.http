@@ -1,0 +1,16 @@
+GET http://localhost:8080/files/search?word=горча
+
+###
+
+GET http://localhost:8080/files/search?word=гОрча
+
+###
+
+GET http://localhost:8080/files/search?word=т
+
+###
+
+GET http://localhost:8080/files/search?word=тур
+
+###
+
